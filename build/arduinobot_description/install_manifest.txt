@@ -10,6 +10,7 @@
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/link.STL
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/horizontal_arm.STL
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+/home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/pi_camera.STL
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
 /home/kshitizsareen/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
